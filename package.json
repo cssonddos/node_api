@@ -1,0 +1,14 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Ericsson",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "http-status-codes": "1.4.0"
+  }
+}
